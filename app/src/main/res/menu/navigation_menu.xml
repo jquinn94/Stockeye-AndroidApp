@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/grp1">
+        <item android:id="@+id/settings"
+            android:icon="@drawable/ic_settings_dark"
+            android:title="Account Settings"/>
+        <item android:id="@+id/preferences"
+            android:icon="@drawable/ic_preferences_dark"
+            android:title="Preferences"/>
+        <item android:id="@+id/contactus"
+            android:icon="@drawable/ic_contactus_dark"
+            android:title="Contact us"/>
+    </group>
+
+    <group android:id="@+id/grp2">
+        <item android:id="@+id/DeleteAccount"
+            android:title="Delete Account" />
+    </group>
+    <group android:id="@+id/grp4">
+        <item android:id="@+id/TandC"
+            android:title="@string/terms_amp_conditions" />
+    </group>
+
+    <group android:id="@+id/grp5">
+        <item android:id="@+id/TandC2"
+            android:title=""/>
+    </group>
+</menu>

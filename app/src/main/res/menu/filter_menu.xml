@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/grp1">
+        <item android:id="@+id/filterearliest"
+            android:title="Sort list by earliest added"/>
+        <item android:id="@+id/filterlatest"
+            android:title="Sort list by latest added"/>
+        <item android:id="@+id/filtersoonest"
+            android:title="Sort list by needs used soonest"/>
+    </group>
+
+</menu>

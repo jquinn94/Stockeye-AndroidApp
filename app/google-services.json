@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383622217317",
+    "firebase_url": "https://recappe-f9b8c.firebaseio.com",
+    "project_id": "recappe-f9b8c",
+    "storage_bucket": "recappe-f9b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383622217317:android:018f4b3dabdad602de908c",
+        "android_client_info": {
+          "package_name": "com.example.android.recappe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383622217317-as0c3bgvare84c7m77h50qe0mild1tqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-rWlMwNu4rELqy9B2VVQZL-yy5_AlaQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383622217317-as0c3bgvare84c7m77h50qe0mild1tqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextAppearance">
+        <item name="android:fontFamily">@font/candal</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+
+    <style name="mySpinnerItemStyle" parent="Widget.AppCompat.Spinner.Underlined">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="ThemeToolbarNavigationView" >
+        <item name="android:listDivider">@color/white</item>
+    </style>
+
+</resources>

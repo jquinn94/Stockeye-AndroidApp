@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stockeye</string>
+    <string name="Open">Stockeye</string>
+    <string name="Close">Stockeye</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="msg_token_fmt"></string>
+    <string-array name="drop_down_list_array">
+        <item></item>
+        <item>Consumer</item>
+        <item>Business</item>
+    </string-array>
+</resources>
